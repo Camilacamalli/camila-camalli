@@ -15,12 +15,15 @@ I'm a passionate developer who loves creating tools, systems, and platforms that
 ## 💻 Tech Stack 
 
 **Languages:**
+
 `JavaScript` • `TypeScript`
 
 **Frameworks & Tools:**
+
 `Node.js` • `React` • `Next.js` • `Vitest` • `Docker` • `Kubernetes` • `Express.js` • `Cucumber`  
 
 ## 🌍 Let's Connect 
 
 📩 camilaagustinacamalli@gmail.com
+
 💼 [:contentReference[oaicite:1]{index=1}](https://www.linkedin.com/in/camila-camalli/)
