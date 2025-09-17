@@ -24,6 +24,6 @@ I'm a passionate developer who loves creating tools, systems, and platforms that
 
 ## 🌍 Let's Connect 
 
-📩 [Email](camilaagustinacamalli@gmail.com)
+📩 camilaagustinacamalli@gmail.com
 
 💼 [LinkedIn](https://www.linkedin.com/in/camila-camalli/)
